@@ -48,7 +48,7 @@ export default function Navbar() {
           ))}
           <li>
             <a
-              href="/Samhitha,_Mudigonda.pdf"
+              href="/SaiSamhitha,_Mudigonda.pdf"
               download
               className="flex items-center gap-1.5 rounded-lg bg-caramel-400 px-4 py-2 text-sm font-semibold text-cream-50 transition-colors hover:bg-caramel-300"
             >
