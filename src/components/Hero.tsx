@@ -2,7 +2,7 @@ import { Mail, Linkedin, Github, ArrowDown, Download, Sparkles, CheckCircle2, Co
 import RotatingText from './RotatingText';
 
 const strengths = ['Cloud-scale interfaces', 'Micro-frontends', 'AI-assisted QA'];
-const heroRoles = ['full-stack development', 'cloud & DevOps', 'micro-frontends', 'AI automation', 'reliable systems'];
+const heroRoles = ['Full-stack development', 'Software Engineer', 'Micro-frontends', 'AI automation', 'Reliable systems'];
 const heroStats = [
   { value: 'AWS', label: 'ECS Console' },
   { value: 'MFE', label: 'SPA Architecture' },
@@ -70,7 +70,7 @@ export default function Hero() {
                 Get In Touch
               </button>
               <a
-                href="/Samhitha,_Mudigonda.pdf"
+                href="/SaiSamhitha,_Mudigonda.pdf"
                 download
                 className="flex items-center gap-2 rounded-lg border border-cream-100/35 bg-rust-900/20 px-6 py-3 text-sm font-semibold text-cream-50 backdrop-blur transition-colors hover:border-caramel-100 hover:bg-rust-900/30"
               >
@@ -97,7 +97,7 @@ export default function Hero() {
                 <Linkedin size={17} />
               </a>
               <a
-                href="https://github.com/"
+                href="https://github.com/SaiSamhitha2907"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="Sai Samhitha on GitHub"

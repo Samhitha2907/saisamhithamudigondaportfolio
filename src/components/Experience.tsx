@@ -25,14 +25,24 @@ const experiences: ExperienceItem[] = [
     impact: 'Cloud console engineering for high-scale container orchestration experiences.',
     accent: 'bg-caramel-50 text-rust-600 border-caramel-200',
     points: [
-      'Managed development and maintenance of the AWS ECS Console using React, TypeScript, and Node.js for large-scale container orchestration for millions of users.',
-      'Architected modular micro-frontend components and SPA structures enabling the Experience Development Team to deliver independent features without disrupting the core system.',
-      'Implemented BFF design patterns as a translation layer between complex frontend requirements and distributed backend microservices.',
-      'Resolved critical root causes within distributed service failures and API defects through deep-dive analysis, improving console uptime and reliability.',
-      'Optimized PostgreSQL query performance and API Gateway configurations to reduce execution latency for container management tasks.',
-      'Created a comprehensive regression testing framework utilizing Python and AI-driven scripts to automate manual QA and accelerate bi-weekly release cycles.',
-      'Refined CI/CD infrastructure and Jenkins pipeline configurations to increase deployment frequency and reduce rollback time.',
-    ],
+  'Developed and maintained frontend features for the Amazon ECS Console — a production web application used by AWS customers worldwide to manage container orchestration using React, TypeScript, and Redux to build responsive and data-driven user interfaces.',
+
+  'Built interactive, data-heavy UI views for the ECS Console that display container infrastructure data including real-time status updates, multi-step configuration flows, and nested resource views using React with Redux for predictable state management.',
+
+  'Improved frontend performance of ECS Console pages by implementing asynchronous scripting patterns and optimizing DOM rendering, reducing page load time by 28% and contributing to a smoother experience for data-intensive views.',
+
+  'Contributed to end-to-end feature delivery on the ECS Console from participating in design reviews and frontend implementation, to API integration, writing tests, and deploying through CI/CD pipelines while working within an 11-member Agile team to deliver bi-weekly sprint goals with a 90% completion rate.',
+
+  'Integrated frontend features with AWS backend microservices via REST APIs, collaborating with backend engineers on API contracts, handling error states, and ensuring the UI responds gracefully to asynchronous data from distributed services.',
+
+  'Developed automated regression tests using Python-based testing frameworks, achieving 80% test automation coverage, reducing QA effort by 40%, and supporting safe, frequent releases through CI/CD pipelines.',
+
+  'Helped triage and resolve 50+ production issues across ECS Console services by debugging frontend-backend interaction issues, optimizing SQL queries, and contributing to improved system uptime from 97.8% to 99.5%.',
+
+  "Applied web accessibility (a11y) best practices in ECS Console features including keyboard navigation, screen reader compatibility, and ARIA attributes to ensure compliance with AWS accessibility standards and improve usability for all customers.",
+
+  'Leveraged the AWS CloudScape design system to build consistent, reusable UI components for the ECS Console, ensuring visual and interaction coherence across the AWS Management Console experience.',
+],
   },
   {
     company: 'Cognizant Technology Solutions (CTS)',
@@ -43,13 +53,16 @@ const experiences: ExperienceItem[] = [
     impact: 'Enterprise frontend delivery with reusable components and reliable integrations.',
     accent: 'bg-rust-50 text-rust-700 border-rust-200',
     points: [
-      'Constructed responsive web interfaces and enterprise application modules using HTML, CSS, and JavaScript ensuring consistent performance across mobile and desktop devices.',
-      'Developed reusable and modular UI components following micro-frontend design principles to improve code maintainability and visual consistency.',
-      'Integrated frontend modules with Node.js and Java backends enabling dynamic data rendering, secure form submissions, and real-time state updates.',
-      'Debugged and fixed production frontend defects involving DOM rendering issues, asynchronous API call timing, and cross-browser compatibility.',
-      'Collaborated with QA engineers and backend developers in an Agile environment to deliver feature updates aligned with the project roadmap.',
-      'Provided technical support and documentation for newly developed features to assist team members with integration.',
-    ],
+  'Built responsive and performant user interfaces for data-heavy enterprise applications using modern JavaScript and advanced CSS3 techniques (Flexbox, Grid, animations), gaining hands-on experience with real-world UI development patterns and cross-browser compatibility.',
+
+  'Developed interactive data visualizations and analytics dashboards using Chart.js, enabling benchmark tracking and customizable reporting workflows for internal stakeholders while strengthening expertise in transforming raw data into meaningful visual insights.',
+
+  'Improved front-end application performance for metric-intensive dashboards by implementing lazy loading, reducing bundle size, and optimizing rendering efficiency — providing early exposure to frontend performance optimization techniques later applied at scale in the AWS ECS Console.',
+
+  'Worked with Git-based version control workflows and participated in collaborative code reviews, building a strong foundation in clean code practices, UI consistency, and scalable frontend development standards.',
+
+  'Gained exposure to full-stack development workflows during the internship by understanding backend data pipelines, integrating APIs, and rendering dynamic frontend content — sparking long-term interest in end-to-end feature delivery now practiced daily at AWS.',
+],
   },
 ];
 

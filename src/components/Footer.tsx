@@ -28,7 +28,7 @@ export default function Footer() {
               <Linkedin size={16} />
             </a>
             <a
-              href="https://github.com/"
+              href="https://github.com/SaiSamhitha2907"
               target="_blank"
               rel="noreferrer"
               aria-label="Sai Samhitha on GitHub"
