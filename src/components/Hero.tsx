@@ -141,11 +141,11 @@ export default function Hero() {
                 </span>
               </div>
               <div className="hero-photo-frame float-slow relative z-10 aspect-square overflow-hidden rounded-full border-4 border-cream-50 shadow-soft ring-1 ring-caramel-100/40">
-                <img
-                  src="/B30DEBC8-034E-42DA-893C-01AEB7B5C90A.jpg.jpeg"
-                  alt="Sai Samhitha Mudigonda"
-                  className="hero-photo-img h-full w-full object-cover"
-                />
+               <img
+  src="/profile.jpeg"
+  alt="Sai Samhitha Mudigonda"
+  className="hero-photo-img h-full w-full object-cover"
+/>
               </div>
               <div className="hero-status-badge absolute -bottom-3 left-1/2 z-20 flex w-max -translate-x-1/2 items-center gap-2 rounded-lg border border-caramel-100/60 bg-rust-900/75 px-4 py-2 text-xs font-bold text-cream-50 shadow-soft backdrop-blur">
                 <span className="pulse-dot h-2 w-2 rounded-full bg-caramel-300" />
