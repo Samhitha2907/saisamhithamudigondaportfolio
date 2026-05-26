@@ -1,5 +1,6 @@
 import { Mail, Linkedin, Github, ArrowDown, Download, Sparkles, CheckCircle2, Code2, CloudCog } from 'lucide-react';
 import RotatingText from './RotatingText';
+import profileImage from "../assets/profile.jpeg";
 
 const strengths = ['Cloud-scale interfaces', 'Micro-frontends', 'AI-assisted QA'];
 const heroRoles = ['Full-stack development', 'Software Engineer', 'Micro-frontends', 'AI automation', 'Reliable systems'];
@@ -142,7 +143,7 @@ export default function Hero() {
               </div>
               <div className="hero-photo-frame float-slow relative z-10 aspect-square overflow-hidden rounded-full border-4 border-cream-50 shadow-soft ring-1 ring-caramel-100/40">
                <img
-  src="/profile.jpeg"
+  src={profileImage}
   alt="Sai Samhitha Mudigonda"
   className="hero-photo-img h-full w-full object-cover"
 />
