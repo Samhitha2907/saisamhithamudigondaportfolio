@@ -89,7 +89,7 @@ export default function Hero() {
                 <Mail size={17} />
               </a>
               <a
-  href="https://www.linkedin.com/in/sai-samhitha-mudigonda"
+  href="https://www.linkedin.com/in/saisamhithamudigonda/"
   target="_blank"
   rel="noreferrer"
   aria-label="Sai Samhitha on LinkedIn"
