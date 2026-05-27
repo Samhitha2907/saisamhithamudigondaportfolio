@@ -19,7 +19,7 @@ const contactMethods = [
   {
     label: 'LinkedIn',
     value: 'linkedin.com/in/sai-samhitha-mudigonda',
-    href: 'https://www.linkedin.com/in/sai-samhitha-mudigonda',
+    href: 'https://www.linkedin.com/in/saisamhithamudigonda/',
     icon: <Linkedin size={20} />,
   },
 ];
