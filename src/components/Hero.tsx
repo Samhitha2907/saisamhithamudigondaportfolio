@@ -89,12 +89,12 @@ export default function Hero() {
                 <Mail size={17} />
               </a>
               <a
-                href="https://www.linkedin.com/in/sai-samhitha-mudigonda"
-                target="_blank"
-                rel="noreferrer"
-                aria-label="Sai Samhitha on LinkedIn"
-                className="hero-social-link flex h-10 w-10 items-center justify-center rounded-full border border-cream-100/35 bg-rust-900/20 text-cream-100 backdrop-blur transition-all hover:border-caramel-100 hover:text-white"
-              >
+  href="https://www.linkedin.com/in/sai-samhitha-mudigonda"
+  target="_blank"
+  rel="noreferrer"
+  aria-label="Sai Samhitha on LinkedIn"
+  className="relative z-50 pointer-events-auto hero-social-link flex h-10 w-10 items-center justify-center rounded-full border border-cream-100/35 bg-rust-900/20 text-cream-100 backdrop-blur transition-all hover:border-caramel-100 hover:text-white"
+>
                 <Linkedin size={17} />
               </a>
               <a

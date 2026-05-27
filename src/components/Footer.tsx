@@ -18,13 +18,13 @@ export default function Footer() {
             >
               <Mail size={16} />
             </a>
-            <a
-              href="https://www.linkedin.com/in/saisamhithamudigonda/"
-              target="_blank"
-              rel="noreferrer"
-              aria-label="Sai Samhitha on LinkedIn"
-              className="flex h-9 w-9 items-center justify-center rounded-full bg-rust-900/35 text-cream-200 transition-all hover:bg-caramel-400 hover:text-white"
-            >
+         <a
+  href="https://www.linkedin.com/in/saisamhithamudigonda/"
+  target="_blank"
+  rel="noreferrer"
+  aria-label="Sai Samhitha on LinkedIn"
+  className="pointer-events-auto flex h-9 w-9 items-center justify-center rounded-full bg-rust-900/35 text-cream-200 transition-all hover:bg-caramel-400 hover:text-white"
+>
               <Linkedin size={16} />
             </a>
             <a
